@@ -17,8 +17,9 @@ title: My Blog
 email: mohitrathore15@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Thanks for visiting my blog!
-baseurl: "my-blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: mohitra15
 github_username:  mohitatgithub
 
 # Build settings

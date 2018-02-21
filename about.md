@@ -8,4 +8,6 @@ Hello World!!
 
 Welcome to my blog.
 
-I have developed this lightweight blog using jekyll to share my Data Analysis Notebooks. I am still a novice, so feel free to share your suggestions.
+I have developed this lightweight blog using jekyll to share my Data Analysis Notebooks. I am still a novice, so please provide your feedback.
+
+You can connect with me using links given below.
